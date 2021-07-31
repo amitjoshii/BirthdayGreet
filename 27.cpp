@@ -1,0 +1,1 @@
+//27.Program to find average of two numbers using friend function in one class.
